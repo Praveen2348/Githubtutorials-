@@ -1,0 +1,3 @@
+FROM ubuntu
+MAINTAINER praveen
+RUN apt-get install git 
